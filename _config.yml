@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Calculus I / 微积分 I"
+title                    : "Advanced Mathematics I / 高等数学 I"
 title_separator          : "-"
 name                     : # &name "Your Name"
 description              : # &description "personal description"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "wangyuanhao/calculus_course_webpage"
+  github           : "wangyuanhao/advanced_mathematics"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
