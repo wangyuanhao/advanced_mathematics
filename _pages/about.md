@@ -77,7 +77,7 @@ redirect_from:
 |                |             数列极限             |  [pdf](./notes/Limit of Number Seq.pdf)  |                             |      |
 |                |                                  |                                          |                             |      |
 |                |                                  |                                          |                             |      |
-| 2025年10月7日  |             函数极限             |                                          |                             | 5    |
+| 2025年10月7日  |             函数极限             |  [pdf](./notes/Limit of Functions.pdf)   |                             | 5    |
 |                |                                  |                                          |                             |      |
 |                |                                  |                                          |                             |      |
 |                |                                  |                                          |                             |      |
