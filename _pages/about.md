@@ -88,7 +88,7 @@ redirect_from:
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月16日 |    极限存在准则、两个重要极限    | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                             | 6    |
-|                |       函数的连续性与间断点       |                                                              |                             |      |
+|                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月21日 | 连续函数的运算与初等函数的连续性 |                                                              |                             | 7    |
