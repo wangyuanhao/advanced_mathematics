@@ -91,7 +91,7 @@ redirect_from:
 |                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
-| 2025年10月21日 | 连续函数的运算与初等函数的连续性 |                                                              |                             | 7    |
+| 2025年10月21日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                             | 7    |
 |                |      闭区间上连续函数的性质      |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
