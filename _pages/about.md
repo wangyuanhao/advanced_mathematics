@@ -95,7 +95,7 @@ redirect_from:
 |                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
-| 2025年10月23日 |            导数的概念            |                                                              |                             | 7    |
+| 2025年10月23日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                             | 7    |
 |                |          函数的求导法则          |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
