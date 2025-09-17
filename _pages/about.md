@@ -96,7 +96,7 @@ redirect_from:
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月23日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                             | 7    |
-|                |          函数的求导法则          |                                                              |                             |      |
+|                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 |  2025年10月28  |             高阶导数             |                                                              |                             | 8    |
