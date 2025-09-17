@@ -92,7 +92,7 @@ redirect_from:
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月21日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                             | 7    |
-|                |      闭区间上连续函数的性质      |                                                              |                             |      |
+|                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月23日 |            导数的概念            |                                                              |                             | 7    |
