@@ -99,7 +99,7 @@ redirect_from:
 |                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
-|  2025年10月28  |             高阶导数             |                                                              |                             | 8    |
+|  2025年10月28  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                             | 8    |
 |                |       隐函数和参数方程求导       |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月30日 |    隐藏函数导数与参数方程求导    |                                                              |                             | 8    |
