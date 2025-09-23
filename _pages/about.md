@@ -103,7 +103,7 @@ redirect_from:
 |                |       隐函数和参数方程求导       | [pdf](./Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2025年10月30日 |    隐藏函数导数与参数方程求导    |                                                              |                             | 8    |
-|                |            函数的微分            |                                                              |                             |      |
+|                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                             |      |
 |                |              习题课              |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
