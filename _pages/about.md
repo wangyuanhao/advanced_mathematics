@@ -113,7 +113,7 @@ redirect_from:
 | 2025年11月6日  |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                             | 9    |
 |                |             泰勒公式             |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                             |      |
 |                |                                  |                                                              |                             |      |
-| 2025年11月11日 |           函数的单调性           |                                                              |                             | 10   |
+| 2025年11月11日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexit.pdf) |                             | 10   |
 |                |            曲线凹凸性            |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
