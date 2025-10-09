@@ -73,96 +73,96 @@ redirect_from:
 |                |            映射与函数            |                                                              |               DDL: 10月16日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月2日  |               函数               |                                                              |                                                              | 4    |
-|                |             数列极限             |            [pdf](./notes/Limit of Number Seq.pdf)            |                                                              |      |
+| 2025年10月9日  |               函数               |                                                              | 教材习题1-2: 1(1)(4)(5)(7); 2; 3<br/>例题2, 教材Page 22<br/>抄写数列极限定义, 教材Page 20 | 5    |
+|                |             数列极限             |            [pdf](./notes/Limit of Number Seq.pdf)            |               DDL: 10月16日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月7日  |             函数极限             |            [pdf](./notes/Limit of Functions.pdf)             |                                                              | 5    |
+| 2025年10月14日 |             函数极限             |            [pdf](./notes/Limit of Functions.pdf)             |                                                              | 6    |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月9日  |          无穷大与无穷小          |        [pdf](./notes/Infinity and Infinitesimal.pdf)         |                                                              | 5    |
+| 2025年10月16日 |          无穷大与无穷小          |        [pdf](./notes/Infinity and Infinitesimal.pdf)         |                                                              | 6    |
 |                |           无穷小的比较           |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月14日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |                                                              | 6    |
+| 2025年10月21日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |                                                              | 7    |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月16日 |    极限存在准则、两个重要极限    | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                                                              | 6    |
+| 2025年10月23日 |    极限存在准则、两个重要极限    | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                                                              | 7    |
 |                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月21日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                                                              | 7    |
+| 2025年10月28日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                                                              | 8    |
 |                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月23日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                                                              | 7    |
+| 2025年10月30日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                                                              | 8    |
 |                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-|  2025年10月28  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                                                              | 8    |
+| 2025年11月4日  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                                                              | 9    |
 |                |       隐函数和参数方程求导       | [pdf](./Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月30日 |    隐藏函数导数与参数方程求导    |                                                              |                                                              | 8    |
+| 2025年11月6日  |    隐藏函数导数与参数方程求导    |                                                              |                                                              | 9    |
 |                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                                                              |      |
 |                |              习题课              |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月4日  |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                                                              | 9    |
+| 2025年11月11日 |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                                                              | 10   |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月6日  |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                                                              | 9    |
+| 2025年11月13日 |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                                                              | 10   |
 |                |             泰勒公式             |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月11日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexit.pdf) |                                                              | 10   |
+| 2025年11月18日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexit.pdf) |                                                              | 11   |
 |                |            曲线凹凸性            |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月13日 |            函数的极值            | [pdf](./notes/Ch3.5 Local and Global Minima and Maxima.pdf)  |                                                              | 10   |
+| 2025年11月20日 |            函数的极值            | [pdf](./notes/Ch3.5 Local and Global Minima and Maxima.pdf)  |                                                              | 11   |
 |                |         函数的最大最小值         |                                                              |                                                              |      |
 |                |          函数图像的描绘          |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月18日 |          平面曲线的曲率          |                                                              |                                                              | 11   |
+| 2025年11月25日 |          平面曲线的曲率          |                                                              |                                                              | 12   |
 |                |              习题课              |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月20日 |       不定积分的概念与性质       |                                                              |                                                              | 11   |
+| 2025年11月27日 |       不定积分的概念与性质       |                                                              |                                                              | 12   |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月25日 |         第一类换元积分法         |                                                              |                                                              | 12   |
+| 2025年12月2日  |         第一类换元积分法         |                                                              |                                                              | 13   |
 |                |         第二类换元积分法         |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月27日 |         第二类换元积分法         |                                                              |                                                              | 12   |
+| 2025年12月4日  |         第二类换元积分法         |                                                              |                                                              | 13   |
 |                |            分部积分法            |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月2日  |          有理函数的积分          |                                                              |                                                              | 13   |
+| 2025年12月9日  |          有理函数的积分          |                                                              |                                                              | 14   |
 |                |              习题课              |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月4日  |        定积分的概念及性质        |                                                              |                                                              | 13   |
+| 2025年12月11日 |        定积分的概念及性质        |                                                              |                                                              | 14   |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月9日  |          微积分基本公式          |                                                              |                                                              | 14   |
+| 2025年12月15日 |          微积分基本公式          |                                                              |                                                              | 15   |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月11日 |           定积分换元法           |                                                              |                                                              | 14   |
+| 2025年12月17日 |           定积分换元法           |                                                              |                                                              | 15   |
 |                |            分部积分法            |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月15日 |             反常积分             |                                                              |                                                              | 15   |
+| 2025年12月23日 |             反常积分             |                                                              |                                                              | 16   |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月17日 |          反常积分审敛法          |                                                              |                                                              | 15   |
+| 2025年12月25日 |          反常积分审敛法          |                                                              |                                                              | 16   |
 |                |           $Gamma$-函数           |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月23日 |              习题课              |                                                              |                                                              | 16   |
-|                |                                  |                                                              |                                                              |      |
-| 2025年12月25日 |           定积分元素法           |                                                              |                                                              | 16   |
+| 2025年12月30日 |           定积分元素法           |                                                              |                                                              | 17   |
 |                |      定积分在几何学上的应用      |                                                              |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
-| 2025年12月30日 |           假期调课适配           |                                                              |                                                              | 17   |
 |                |                                  |                                                              |                                                              |      |
 |  2026年1月1日  |             元旦假期             |                                                              |                                                              | 17   |
 |                |                                  |                                                              |                                                              |      |
-|  2026年1月6日  |              复习课              |                                                              |                                                              | 18   |
+|                |                                  |                                                              |                                                              |      |
+|  2026年1月6日  |      定积分在几何学上的应用      |                                                              |                                                              | 18   |
 |                |                                  |                                                              |                                                              |      |
 |  2026年1月8日  |           复习课、答疑           |                                                              |                                                              | 18   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
