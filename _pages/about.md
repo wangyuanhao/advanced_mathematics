@@ -39,6 +39,10 @@ redirect_from:
   * 每两周提交一次作业; 每次课后，**<font color=red>作业及提交时间在课程网页公布, 不接受任何<u>非不可抗力因素</u>导致的延迟提交, “不可抗力因素”的解释权归助教所有</font>**;
   * 不符合提交要求将拒收；
   * 除了解答正确与否，**<font color=red>作业完成度也很重要的评价标准</font>**。
+* 出勤要求
+  * 缺勤达1/3按本科生院要求, 取消参加期末考试资格
+  * **<font color=red>必须事前请假, 不接受任何事后请假!!!</font>**
+  
 
 
 ### ⭐️ <font color=purple><a name='1' style="text-decoration:none;color:purple">预备知识</a></font>
