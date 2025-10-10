@@ -129,7 +129,7 @@ redirect_from:
 | 2025年11月25日 |          平面曲线的曲率          | [pdf](./notes/Ch3.6&7 Graph of Functions and Curvature.pdf)  |                                                              | 12   |
 |                |              习题课              |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月27日 |       不定积分的概念与性质       |                                                              |                                                              | 12   |
+| 2025年11月27日 |       不定积分的概念与性质       |         [pdf](./notes/Ch4.1 Indefinite Integral.pdf)         |                                                              | 12   |
 |                |                                  |                                                              |                                                              |      |
 | 2025年12月2日  |         第一类换元积分法         |                                                              |                                                              | 13   |
 |                |         第二类换元积分法         |                                                              |                                                              |      |
