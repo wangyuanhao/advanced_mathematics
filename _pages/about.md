@@ -131,7 +131,7 @@ redirect_from:
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月27日 |       不定积分的概念与性质       |         [pdf](./notes/Ch4.1 Indefinite Integral.pdf)         |                                                              | 12   |
 |                |                                  |                                                              |                                                              |      |
-| 2025年12月2日  |         第一类换元积分法         |                                                              |                                                              | 13   |
+| 2025年12月2日  |         第一类换元积分法         |     [pdf](./notes/Ch4.2 Integration by Substitution.pdf)     |                                                              | 13   |
 |                |         第二类换元积分法         |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年12月4日  |         第二类换元积分法         |                                                              |                                                              | 13   |
