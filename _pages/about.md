@@ -81,8 +81,8 @@ redirect_from:
 |                |             数列极限             |            [pdf](./notes/Limit of Number Seq.pdf)            |               DDL: 10月16日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月14日 |             函数极限             |            [pdf](./notes/Limit of Functions.pdf)             |                                                              | 6    |
-|                |                                  |                                                              |                                                              |      |
+| 2025年10月14日 |             函数极限             |            [pdf](./notes/Limit of Functions.pdf)             | 例题 3, 教材 Page 29;抄写函数极限定义, 教材 Page 28;教材习题 1-3: 1; 3(1)(3); 4;5(1). | 6    |
+|                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年10月16日 |          无穷大与无穷小          |        [pdf](./notes/Infinity and Infinitesimal.pdf)         |                                                              | 6    |
