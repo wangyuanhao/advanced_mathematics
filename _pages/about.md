@@ -85,8 +85,8 @@ redirect_from:
 |                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月16日 |          无穷大与无穷小          |        [pdf](./notes/Infinity and Infinitesimal.pdf)         |                                                              | 6    |
-|                |           无穷小的比较           |                                                              |                                                              |      |
+| 2025年10月16日 |          无穷大与无穷小          |        [pdf](./notes/Infinity and Infinitesimal.pdf)         | 教材习题1-4: 1; 5(完成表格第2行$x \rightarrow x_{0}$和第6行$x \rightarrow \infty$); 8.<br/>教材习题1-7: 1; 2; 3; 5(1)(2)(3). | 6    |
+|                |           无穷小的比较           |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年10月21日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |                                                              | 7    |
 |                |                                  |                                                              |                                                              |      |
