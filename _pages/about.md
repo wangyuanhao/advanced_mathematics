@@ -88,8 +88,8 @@ redirect_from:
 | 2025年10月16日 |          无穷大与无穷小          |        [pdf](./notes/Infinity and Infinitesimal.pdf)         | 教材习题1-4: 1; 5(完成表格第2行$x \rightarrow x_{0}$和第6行$x \rightarrow \infty$); 8.<br/>教材习题1-7: 1; 2; 3; 5(1)(2)(3). | 6    |
 |                |           无穷小的比较           |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月21日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |                                                              | 7    |
-|                |                                  |                                                              |                                                              |      |
+| 2025年10月21日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |      教材习题1-5: 1(1)(3)(7)(8)(9)(14); 2(3); 3(1); 5.       | 7    |
+|                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年10月23日 |    极限存在准则、两个重要极限    | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                                                              | 7    |
 |                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                                                              |      |
