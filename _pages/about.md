@@ -172,6 +172,10 @@ redirect_from:
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 
+### ⭐️ <a name="4" style="text-decoration:none;color:purple">部分习题解析</a>
+
+* [部分习题解析: Typos自行甄别.](./notes/solution.pdf)
+
 ### ⭐️ <a name="5" style="text-decoration:none;color:purple">其他课程资料</a>
 
 《高等数学I》视频公开课资料在各大网站上十分丰富, 这里提供一些参考, 注意不同课程要求有所差异, 请同学们以本课程为主线.
