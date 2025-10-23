@@ -91,9 +91,9 @@ redirect_from:
 | 2025年10月21日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |      教材习题1-5: 1(1)(3)(7)(8)(9)(14); 2(3); 3(1); 5.       | 7    |
 |                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月23日 |    极限存在准则、两个重要极限    | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                                                              | 7    |
-|                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
+| 2025年10月23日 |    极限存在准则、两个重要极限    | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |             教材习题1-6: 1(1)(6); 2(3)(4); 4(2).             | 7    |
+|                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |   抄写教材57页函数连续的两个定义;教材习题1-8: 1; 3(4); 5.    |      |
+|                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年10月28日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                                                              | 8    |
 |                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                                                              |      |
