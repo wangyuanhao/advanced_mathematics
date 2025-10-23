@@ -104,7 +104,7 @@ redirect_from:
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月4日  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                                                              | 9    |
-|                |       隐函数和参数方程求导       | [pdf](./Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                                                              |      |
+|                |       隐函数和参数方程求导       | [pdf](./notes/Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月6日  |    隐藏函数导数与参数方程求导    |                                                              |                                                              | 9    |
 |                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                                                              |      |
