@@ -95,9 +95,9 @@ redirect_from:
 |                |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |   抄写教材57页函数连续的两个定义;教材习题1-8: 1; 3(4); 5.    |      |
 |                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月28日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                                                              | 8    |
-|                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
+| 2025年10月28日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |             教材习题1-9: 1; 3(1)(4)(7); 4(1); 6.             | 8    |
+|                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                     教材习题1-10: 1; 2.                      |      |
+|                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年10月30日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                                                              | 8    |
 |                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                                                              |      |
