@@ -99,9 +99,9 @@ redirect_from:
 |                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                     教材习题1-10: 1; 2.                      |      |
 |                |                                  |                                                              |               DDL: 10月30日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年10月30日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                                                              | 8    |
-|                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
+| 2025年10月30日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |   抄写教材Page 75, 导数定义<br>教材习题2-1: 4; 6; 13; 17.    | 8    |
+|                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |    教材习题2-2: 2(1)(5)(7);3(3);6(1)(3)(5);8(3);10;11(5)     |      |
+|                |                                  |                                                              |               DDL: 11月13日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月4日  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                                                              | 9    |
 |                |       隐函数和参数方程求导       | [pdf](./notes/Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                                                              |      |
