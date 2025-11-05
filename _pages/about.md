@@ -103,9 +103,9 @@ redirect_from:
 |                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |    教材习题2-2: 2(1)(5)(7);3(3);6(1)(3)(5);8(3);10;11(5)     |      |
 |                |                                  |                                                              |               DDL: 11月13日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月4日  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                                                              | 9    |
-|                |       隐函数和参数方程求导       | [pdf](./notes/Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
+| 2025年11月4日  |             高阶导数             |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                教材习题2-3: 1(2)(3);3(2);10.                 | 9    |
+|                |       隐函数和参数方程求导       | [pdf](./notes/Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |          教材习题2-4: 1(1)(4);3(1);5(2);7(1);8(1).           |      |
+|                |                                  |                                                              |               DDL: 11月13日周四上课提交纸质版                |      |
 | 2025年11月6日  |    隐藏函数导数与参数方程求导    |                                                              |                                                              | 9    |
 |                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                                                              |      |
 |                |              习题课              |                                                              |                                                              |      |
