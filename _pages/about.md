@@ -108,7 +108,7 @@ redirect_from:
 |                |                                  |                                                              |               DDL: 11月13日周四上课提交纸质版                |      |
 | 2025年11月6日  |    隐藏函数导数与参数方程求导    |                                                              |                                                              | 9    |
 |                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                                                              |      |
-|                |              习题课              |                                                              |                                                              |      |
+|                |              习题课              |                 [pdf](./notes/exercise1.pdf)                 |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月11日 |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                                                              | 10   |
