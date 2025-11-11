@@ -108,11 +108,11 @@ redirect_from:
 |                |                                  |                                                              |               DDL: 11月13日周四上课提交纸质版                |      |
 | 2025年11月6日  |    隐藏函数导数与参数方程求导    |                                                              |                                                              | 9    |
 |                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |      教材习题2-5: 1; 3(2)(4)(5); 4(1)(2)(3)(4)(5)(6)(7)      |      |
-|                |              习题课              |                 [pdf](./notes/exercise1.pdf)                 |                                                              |      |
+|                |              习题课              |                 [pdf](./notes/exercise1.pdf)                 |               DDL: 11月13日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月11日 |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                                                              | 10   |
-|                |                                  |                                                              |                                                              |      |
+| 2025年11月11日 |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                 教材习题3-1: 1; 2; 3; 8; 10.                 | 10   |
+|                |                                  |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月13日 |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                                                              | 10   |
 |                |             泰勒公式             |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                                                              |      |
