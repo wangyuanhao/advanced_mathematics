@@ -114,9 +114,9 @@ redirect_from:
 | 2025年11月11日 |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                 教材习题3-1: 1; 2; 3; 8; 10.                 | 10   |
 |                |                                  |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月13日 |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                                                              | 10   |
-|                |             泰勒公式             |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
+| 2025年11月13日 |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |           教材习题3-2: 1(1)(5)(6)(12)(13)(15); 3.            | 10   |
+|                |             泰勒公式             |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                       教材习题3-3: 4.                        |      |
+|                |                                  |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
 | 2025年11月18日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexity.pdf) |                                                              | 11   |
 |                |            曲线凹凸性            |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
