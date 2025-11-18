@@ -117,14 +117,14 @@ redirect_from:
 | 2025年11月13日 |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |           教材习题3-2: 1(1)(5)(6)(12)(13)(15); 3.            | 10   |
 |                |             泰勒公式             |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                       教材习题3-3: 4.                        |      |
 |                |                                  |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
-| 2025年11月18日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexity.pdf) |                                                              | 11   |
-|                |            曲线凹凸性            |                                                              |                                                              |      |
 |                |                                  |                                                              |                                                              |      |
+| 2025年11月18日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexity.pdf) |            教材习题3-4: 3(1)(7); 4; 5(1); 10(1).             | 11   |
+|                |            曲线凹凸性            |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
-| 2025年11月20日 |            函数的极值            | [pdf](./notes/Ch3.5 Local and Global Minima and Maxima.pdf)  |                                                              | 11   |
+| 2025年11月20日 |            函数的极值            | [pdf](./notes/Ch3.5 Local and Global Minima and Maxima.pdf)  |             教材习题3-5: 1(1)(2); 6(1)(2); 7; 17             | 11   |
 |                |         函数的最大最小值         |                                                              |                                                              |      |
 |                |          函数图像的描绘          |                                                              |                                                              |      |
-|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
 |                |                                  |                                                              |                                                              |      |
 | 2025年11月25日 |          平面曲线的曲率          | [pdf](./notes/Ch3.6&7 Graph of Functions and Curvature.pdf)  |                                                              | 12   |
 |                |              习题课              |                                                              |                                                              |      |
