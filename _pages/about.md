@@ -137,7 +137,7 @@ redirect_from:
 |   2025年12月4日    |         第二类换元积分法         |                                                              |                                                              | 13   |
 |                    |            分部积分法            |         [pdf](./notes/Ch4.3 Integration by Part.pdf)         |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月9日    |          有理函数的积分          |                                                              |                                                              | 14   |
+|   2025年12月9日    |          有理函数的积分          |  [pdf](./notes/Ch4.4 Integration of Rational Functions.pdf)  |                                                              | 14   |
 |                    |              习题课              |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月11日   |        定积分的概念及性质        |                                                              |                                                              | 14   |
