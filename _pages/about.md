@@ -126,11 +126,11 @@ redirect_from:
 |                    |        ~~函数图像的描绘~~        |                                                              |                                                              |      |
 |                    |                                  |                                                              |               DDL: 11月27日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年11月25日   |   函数的极值、函数的最大最小值   |                                                              |                                                              | 12   |
-|                    |          平面曲线的曲率          | [pdf](./notes/Ch3.6&7 Graph of Functions and Curvature.pdf)  |                                                              |      |
+|   2025年11月25日   |   函数的极值、函数的最大最小值   |                                                              | 教材习题3-6: 1~{\color{red}(模仿例1解题)}.<br/> 教材习题3-7:1;3;5. | 12   |
+|                    |          平面曲线的曲率          | [pdf](./notes/Ch3.6&7 Graph of Functions and Curvature.pdf)  |               DDL: 12月11日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年11月27日   |       不定积分的概念与性质       |         [pdf](./notes/Ch4.1 Indefinite Integral.pdf)         |                                                              | 12   |
-|                    |                                  |                                                              |                                                              |      |
+|   2025年11月27日   |       不定积分的概念与性质       |         [pdf](./notes/Ch4.1 Indefinite Integral.pdf)         | 教材习题4-1: 1(1)(2); 2(1)(3)(7)(12)(13)(14)(17)(19)(20)(22)(25). | 12   |
+|                    |                                  |                                                              |               DDL: 12月11日周四上课提交纸质版                |      |
 |   2025年12月2日    |         第一类换元积分法         |     [pdf](./notes/Ch4.2 Integration by Substitution.pdf)     |                                                              | 13   |
 |                    |         第二类换元积分法         |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
