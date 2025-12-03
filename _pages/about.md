@@ -140,7 +140,7 @@ redirect_from:
 |   2025年12月9日    |          有理函数的积分          |  [pdf](./notes/Ch4.4 Integration of Rational Functions.pdf)  |                                                              | 14   |
 |                    |              习题课              |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月11日   |        定积分的概念及性质        |                                                              |                                                              | 14   |
+|   2025年12月11日   |        定积分的概念及性质        |         [pdf](../notes/Ch5.1 Definite Integral.pdf)          |                                                              | 14   |
 |                    |                                  |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月15日   |          微积分基本公式          |                                                              |                                                              | 15   |
