@@ -143,7 +143,7 @@ redirect_from:
 |   2025年12月11日   |        定积分的概念及性质        |         [pdf](../notes/Ch5.1 Definite Integral.pdf)          |                                                              | 14   |
 |                    |                                  |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月16日   |          微积分基本公式          |                                                              |                                                              | 15   |
+|   2025年12月16日   |          微积分基本公式          | [pdf](../notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                                                              | 15   |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月18日   |           定积分换元法           |                                                              |                                                              | 15   |
 |                    |            分部积分法            |                                                              |                                                              |      |
