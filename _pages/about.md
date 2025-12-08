@@ -145,7 +145,7 @@ redirect_from:
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月16日   |          微积分基本公式          | [pdf](../notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                                                              | 15   |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月18日   |           定积分换元法           |                                                              |                                                              | 15   |
+|   2025年12月18日   |           定积分换元法           | [pdf](../notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                                                              | 15   |
 |                    |            分部积分法            |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月23日   |             反常积分             |                                                              |                                                              | 16   |
