@@ -148,7 +148,7 @@ redirect_from:
 |   2025年12月18日   |           定积分换元法           | [pdf](../notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                                                              | 15   |
 |                    |            分部积分法            |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月23日   |             反常积分             |                                                              |                                                              | 16   |
+|   2025年12月23日   |             反常积分             |        [pdf](../notes/Ch5.4 Improper Integration.pdf)        |                                                              | 16   |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月25日   |          反常积分审敛法          |                                                              |                                                              | 16   |
 |                    |           $Gamma$-函数           |                                                              |                                                              |      |
