@@ -140,15 +140,15 @@ redirect_from:
 |   2025年12月9日    |          有理函数的积分          |  [pdf](./notes/Ch4.4 Integration of Rational Functions.pdf)  |            教材习题4-4: 2, 6, 11, 19, 20, 21, 22.            | 14   |
 |                    |              习题课              |                                                              |               DDL: 12月11日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月11日   |        定积分的概念及性质        |         [pdf](../notes/Ch5.1 Definite Integral.pdf)          |                                                              | 14   |
+|   2025年12月11日   |        定积分的概念及性质        |          [pdf](./notes/Ch5.1 Definite Integral.pdf)          |                                                              | 14   |
 |                    |                                  |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月16日   |          微积分基本公式          | [pdf](../notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                                                              | 15   |
+|   2025年12月16日   |          微积分基本公式          |  [pdf](./notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                                                              | 15   |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月18日   |           定积分换元法           | [pdf](../notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                                                              | 15   |
+|   2025年12月18日   |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                                                              | 15   |
 |                    |            分部积分法            |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月23日   |             反常积分             |        [pdf](../notes/Ch5.4 Improper Integration.pdf)        |                                                              | 16   |
+|   2025年12月23日   |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |                                                              | 16   |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月25日   |          反常积分审敛法          |                                                              |                                                              | 16   |
 |                    |           $Gamma$-函数           |                                                              |                                                              |      |
