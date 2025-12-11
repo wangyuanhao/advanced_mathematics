@@ -140,8 +140,8 @@ redirect_from:
 |   2025年12月9日    |          有理函数的积分          |  [pdf](./notes/Ch4.4 Integration of Rational Functions.pdf)  |            教材习题4-4: 2, 6, 11, 19, 20, 21, 22.            | 14   |
 |                    |              习题课              |                                                              |               DDL: 12月11日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月11日   |        定积分的概念及性质        |          [pdf](./notes/Ch5.1 Definite Integral.pdf)          |                                                              | 14   |
-|                    |                                  |                                                              |                                                              |      |
+|   2025年12月11日   |        定积分的概念及性质        |          [pdf](./notes/Ch5.1 Definite Integral.pdf)          |         教材习题5-1: 3(1), 4(1)(3), 5, 7(4), 9, 12.          | 14   |
+|                    |                                  |                                                              |               DDL: 12月25日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月16日   |          微积分基本公式          |  [pdf](./notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                                                              | 15   |
 |                    |                                  |                                                              |                                                              |      |
