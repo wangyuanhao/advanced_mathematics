@@ -65,7 +65,7 @@ redirect_from:
 
 ### ⭐️ <a name="3" style="text-decoration:none;color:purple">教学日历</a>
 
-📢 **[2025-2026校历](../notes/2025_2026_Calendar.pdf)**
+📢 **[2025-2026校历](./notes/2025_2026_Calendar.pdf)**
 
 📢 **<font color=red>相关材料及作业与提交时间将不定时更新, 请各位同学留意通知信息</font>** ‼️
 
@@ -150,7 +150,7 @@ redirect_from:
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月23日   |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |                                                              | 16   |
 |                    |                                  |                                                              |                                                              |      |
-|   2025年12月25日   |          反常积分审敛法          |                                                              |                                                              | 16   |
+|   2025年12月25日   |          反常积分审敛法          | [pdf](./notes/Ch5.5 Convergence of Improper Integration and Gamma Funcion.pdf) |                                                              | 16   |
 |                    |           $Gamma$-函数           |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
