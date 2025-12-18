@@ -145,8 +145,8 @@ redirect_from:
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月16日   |          微积分基本公式          |  [pdf](./notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |    教材习题5-2: 4, 5(1)(2), 8(1)(4)(6)(9), 11(1), 12, 14.    | 15   |
 |                    |                                  |                                                              |               DDL: 12月25日周四上课提交纸质版                |      |
-|   2025年12月18日   |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                                                              | 15   |
-|                    |            分部积分法            |                                                              |                                                              |      |
+|   2025年12月18日   |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) | 教材习题5-3: 1(3)(5)(6)(12)(15)(24)(25), 2, 7(1)(2)(5)(6)(7). | 15   |
+|                    |            分部积分法            |                                                              |               DDL: 12月25日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月23日   |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |                                                              | 16   |
 |                    |                                  |                                                              |                                                              |      |
