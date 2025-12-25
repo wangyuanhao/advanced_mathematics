@@ -150,8 +150,8 @@ redirect_from:
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月23日   |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |               教材习题5-4: 1(1)(3)(8)(10), 4.                | 16   |
 |                    |                                  |                                                              |               DDL: 12月30日周四上课提交纸质版                |      |
-|   2025年12月25日   |          反常积分审敛法          | [pdf](./notes/Ch5.5 Convergence of Improper Integration and Gamma Funcion.pdf) |                                                              | 16   |
-|                    |           $Gamma$-函数           |                                                              |                                                              |      |
+|   2025年12月25日   |          反常积分审敛法          | [pdf](./notes/Ch5.5 Convergence of Improper Integration and Gamma Funcion.pdf) |             教材习题5-5: 1(1)(2)(3)(8), 5(1)(2).             | 16   |
+|                    |           $Gamma$-函数           |                                                              |               DDL: 12月30日周四上课提交纸质版                |      |
 |                    |                                  |                                                              |                                                              |      |
 |                    |                                  |                                                              |                                                              |      |
 |   2025年12月30日   |           定积分元素法           |  [pdf](./notes/Ch6.1 Definite Integration in Geometry.pdf)   |                                                              | 17   |
