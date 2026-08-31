@@ -65,7 +65,7 @@ redirect_from:
 
 ### ⭐️ <a name="3" style="text-decoration:none;color:purple">教学日历</a>
 
-📢 **[2025-2026校历](./notes/2025_2026_Calendar.pdf)**
+📢 **[2026-2027校历](./notes/2026_2027_Calendar.pdf)**
 
 📢 **<font color=red>相关材料及作业与提交时间将不定时更新, 请各位同学留意通知信息</font>** ‼️
 
