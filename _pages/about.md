@@ -139,7 +139,7 @@ redirect_from:
 | 2026年12月2日  |          微积分基本公式          |  [pdf](./notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                             | 13   |
 |                |                                  |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
-| 2025年12月8日  |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                             | 14   |
+| 2026年12月8日  |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                             | 14   |
 |                |            分部积分法            |                                                              |                             |      |
 |                |                                  |                                                              |                             |      |
 | 2026年12月9日  |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |                             | 14   |
