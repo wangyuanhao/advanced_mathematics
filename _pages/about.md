@@ -71,100 +71,100 @@ redirect_from:
 
 📢 **<font color=red>讲义可能有Typos，请注意甄别</font>** ‼️
 
-|      日期      |               要点               |                             讲义                             | <font color=red>作业</font> | 周次 |
-| :------------: | :------------------------------: | :----------------------------------------------------------: | :-------------------------: | ---- |
-| 2026年9月29日  |             课程介绍             |           [pdf](./notes/Mapping_and_Functions.pdf)           |                             | 4    |
-|                |            映射与函数            |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年9月30日  |          数列、数列极限          |            [pdf](./notes/Limit of Number Seq.pdf)            |                             | 4    |
-|                |          数列极限的性质          |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月6日  |             函数极限             |            [pdf](./notes/Limit of Functions.pdf)             |                             | 5    |
-|                |          函数极限的性质          |                                                              |                             |      |
-|                |          无穷大与无穷小          |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月7日  |           无穷小的比较           |        [pdf](./notes/Infinity and Infinitesimal.pdf)         |                             | 5    |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月13日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |                             | 6    |
-|                |           两个重要极限           | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月14日 |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                             | 6    |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月20日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                             | 7    |
-|                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月21日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                             | 7    |
-|                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                             |      |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月27日 |     函数的求导法则、高阶导数     |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                             | 8    |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年10月28日 |    隐藏函数导数与参数方程求导    | [pdf](./notes/Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                             | 8    |
-|                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                             |      |
-|                |              习题课              |                 [pdf](./notes/exercise1.pdf)                 |                             |      |
-|                |            习题课解答            |                 [pdf](./notes/solution1.pdf)                 |                             |      |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月3日  |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                             | 9    |
-|                |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月4日  |       洛必达法则、泰勒公式       |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                             | 9    |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月10日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexity.pdf) |                             | 10   |
-|                |            曲线凹凸性            |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月11日 |   函数的极值、函数的最大最小值   | [pdf](./notes/Ch3.5 Local and Global Minima and Maxima.pdf)  |                             | 10   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月17日 |          平面曲线的曲率          | [pdf](./notes/Ch3.6&7 Graph of Functions and Curvature.pdf)  |                             | 11   |
-|                |       不定积分的概念与性质       |         [pdf](./notes/Ch4.1 Indefinite Integral.pdf)         |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月18日 |         第一类换元积分法         |     [pdf](./notes/Ch4.2 Integration by Substitution.pdf)     |                             | 11   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月24日 |         第二类换元积分法         |                                                              |                             | 12   |
-|                |            分部积分法            |         [pdf](./notes/Ch4.3 Integration by Part.pdf)         |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年11月25日 |          有理函数的积分          |  [pdf](./notes/Ch4.4 Integration of Rational Functions.pdf)  |                             | 12   |
-|                |              习题课              |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月1日  |        定积分的概念及性质        |          [pdf](./notes/Ch5.1 Definite Integral.pdf)          |                             | 13   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月2日  |          微积分基本公式          |  [pdf](./notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                             | 13   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月8日  |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                             | 14   |
-|                |            分部积分法            |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月9日  |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |                             | 14   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月15日 |          反常积分审敛法          | [pdf](./notes/Ch5.5 Convergence of Improper Integration and Gamma Funcion.pdf) |                             | 15   |
-|                |           $Gamma$-函数           |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月16日 |           定积分元素法           |  [pdf](./notes/Ch6.1 Definite Integration in Geometry.pdf)   |                             | 15   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月22日 |      定积分在几何学上的应用      |                                                              |                             | 16   |
-|                |                                  |                                                              |                             |      |
-| 2026年12月23日 |      定积分在几何学上的应用      |                                                              |                             | 16   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-| 2026年12月29日 |           调休课时内容           |                                                              |                             | 17   |
-|                |                                  |                                                              |                             |      |
-| 2026年12月30日 |           调休课时内容           |                                                              |                             | 17   |
-|                |                                  |                                                              |                             |      |
-|                |                                  |                                                              |                             |      |
-|  2027年1月5日  |              习题课              |                                                              |                             | 18   |
-|                |                                  |                                                              |                             |      |
-|  2027年1月6日  |            复习、答疑            |                                                              |                             | 18   |
-|                |                                  |                                                              |                             |      |
+|      日期      |               要点               |                             讲义                             |                 <font color=red>作业</font>                  | 周次 |
+| :------------: | :------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ---- |
+| 2026年9月29日  |             课程介绍             |           [pdf](./notes/Mapping_and_Functions.pdf)           | 习题1-1: 1(1)(3)(4)(9);2(1);4(2);7(1)(3)(5);8(4)(5)<br />9(1)(2)(5);11(1)(4);12(3) | 4    |
+|                |            映射与函数            |                                                              |              **DDL: 10月14日(上课时带来教室)**               |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年9月30日  |          数列、数列极限          |            [pdf](./notes/Limit of Number Seq.pdf)            |                                                              | 4    |
+|                |          数列极限的性质          |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月6日  |             函数极限             |            [pdf](./notes/Limit of Functions.pdf)             |                                                              | 5    |
+|                |          函数极限的性质          |                                                              |                                                              |      |
+|                |          无穷大与无穷小          |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月7日  |           无穷小的比较           |        [pdf](./notes/Infinity and Infinitesimal.pdf)         |                                                              | 5    |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月13日 |           极限运算法则           |           [pdf](./notes/Ch1.5 Rules of Limits.pdf)           |                                                              | 6    |
+|                |           两个重要极限           | [pdf](./notes/Ch1.6 Criteria for Existence of Limits and Two Important Limits.pdf) |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月14日 |       函数的连续性与间断点       | [pdf](./notes/Ch1.8 Continuity of Functions And Breakpoints.pdf) |                                                              | 6    |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月20日 | 连续函数的运算与初等函数的连续性 | [pdf](./notes/Ch1.9 Operators of Continuous Functions And Continuity of Elementary Functions.pdf) |                                                              | 7    |
+|                |      闭区间上连续函数的性质      | [pdf](./notes/Ch1.10 Properties of Continuous Functions on Closed Intervals.pdf) |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月21日 |            导数的概念            |             [pdf](./notes/Ch2.1 Derivatives.pdf)             |                                                              | 7    |
+|                |          函数的求导法则          | [pdf](./notes/Ch2.2 Rules of Operators for Derivatives.pdf)  |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月27日 |     函数的求导法则、高阶导数     |      [pdf](./notes/Ch2.3 Higher-Order Derivatives.pdf)       |                                                              | 8    |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年10月28日 |    隐藏函数导数与参数方程求导    | [pdf](./notes/Ch2.4 Derivatives of Implicit Functions and Parameterized Functions.pdf) |                                                              | 8    |
+|                |            函数的微分            |            [pdf](./notes/Ch2.5 Differentials.pdf)            |                                                              |      |
+|                |              习题课              |                 [pdf](./notes/exercise1.pdf)                 |                                                              |      |
+|                |            习题课解答            |                 [pdf](./notes/solution1.pdf)                 |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月3日  |           微分中值定理           |         [pdf](./notes/Ch3.1 Mean Value Theorem.pdf)          |                                                              | 9    |
+|                |            洛必达法则            |         [pdf](./notes/Ch3.2 Rule of L-Hospitial.pdf)         |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月4日  |       洛必达法则、泰勒公式       |           [pdf](./notes/Ch3.3 Taylor Formula.pdf)            |                                                              | 9    |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月10日 |           函数的单调性           | [pdf](./notes/Ch3.4 Monotonicity, Concavity and Convexity.pdf) |                                                              | 10   |
+|                |            曲线凹凸性            |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月11日 |   函数的极值、函数的最大最小值   | [pdf](./notes/Ch3.5 Local and Global Minima and Maxima.pdf)  |                                                              | 10   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月17日 |          平面曲线的曲率          | [pdf](./notes/Ch3.6&7 Graph of Functions and Curvature.pdf)  |                                                              | 11   |
+|                |       不定积分的概念与性质       |         [pdf](./notes/Ch4.1 Indefinite Integral.pdf)         |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月18日 |         第一类换元积分法         |     [pdf](./notes/Ch4.2 Integration by Substitution.pdf)     |                                                              | 11   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月24日 |         第二类换元积分法         |                                                              |                                                              | 12   |
+|                |            分部积分法            |         [pdf](./notes/Ch4.3 Integration by Part.pdf)         |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年11月25日 |          有理函数的积分          |  [pdf](./notes/Ch4.4 Integration of Rational Functions.pdf)  |                                                              | 12   |
+|                |              习题课              |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月1日  |        定积分的概念及性质        |          [pdf](./notes/Ch5.1 Definite Integral.pdf)          |                                                              | 13   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月2日  |          微积分基本公式          |  [pdf](./notes/Ch5.2 Foundatmental Formula of Calculus.pdf)  |                                                              | 13   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月8日  |           定积分换元法           | [pdf](./notes/Ch5.3 Susititution and Integartion by Part for Definite Integral.pdf) |                                                              | 14   |
+|                |            分部积分法            |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月9日  |             反常积分             |        [pdf](./notes/Ch5.4 Improper Integration.pdf)         |                                                              | 14   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月15日 |          反常积分审敛法          | [pdf](./notes/Ch5.5 Convergence of Improper Integration and Gamma Funcion.pdf) |                                                              | 15   |
+|                |           $Gamma$-函数           |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月16日 |           定积分元素法           |  [pdf](./notes/Ch6.1 Definite Integration in Geometry.pdf)   |                                                              | 15   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月22日 |      定积分在几何学上的应用      |                                                              |                                                              | 16   |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月23日 |      定积分在几何学上的应用      |                                                              |                                                              | 16   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月29日 |           调休课时内容           |                                                              |                                                              | 17   |
+|                |                                  |                                                              |                                                              |      |
+| 2026年12月30日 |           调休课时内容           |                                                              |                                                              | 17   |
+|                |                                  |                                                              |                                                              |      |
+|                |                                  |                                                              |                                                              |      |
+|  2027年1月5日  |              习题课              |                                                              |                                                              | 18   |
+|                |                                  |                                                              |                                                              |      |
+|  2027年1月6日  |            复习、答疑            |                                                              |                                                              | 18   |
+|                |                                  |                                                              |                                                              |      |
 
 ### ⭐️ <a name="4" style="text-decoration:none;color:purple">部分习题解析</a>
 
